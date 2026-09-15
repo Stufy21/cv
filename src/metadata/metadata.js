@@ -28,13 +28,12 @@ module.exports = {
       title: 'Software Engineer',
       company: 'Blizzard S.R.L',
       location: 'Mira, Venice, Italy',
-      mode: 'Remote',  // or 'Remote', 'Hybrid',
+      mode: 'Remote',  // or 'Hybrid', 'In-person'
       period: 'January 2025 - Present',
       skills: ['.NET Core', 'DevExpress', 'SQLServer', 'T-SQL','Git', 'Docker'],
       contents: `
-  I started working for Blizzard S.R.L in January 2025 as a Software Engineer.
-  I have been working on the development of a new tool that allows users to manange industrial machines, using .NET Core and DevExpress for the frontend, and SQL Server for the database.
-  I am also involved in the maintenance and improvement of existing tools, using Git for version control and Docker for containerization.
+  I joined Blizzard S.R.L in January 2025 as a Software Engineer, building a new tool for managing industrial machines with .NET Core and DevExpress on the frontend and SQL Server on the backend.
+  I also maintain and improve existing tools, using Git for version control and Docker for containerization.
       `
     },
     {
@@ -43,17 +42,14 @@ module.exports = {
       location: 'Mestre and Mira, Italy',
       mode: 'Hybrid',  // or 'Remote', 'Hybrid'
       period: 'October 2020 - January 2025 · 4 years 4 months',
-      skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'T-SQL', 'SQLite', 'Angular', 'AngularJS', 'ReactNative', 'Azure DevOps', 'CI/CD', 'Git', 'Expo'],
+      skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'T-SQL', 'SQLite', 'Angular', 'AngularJS', 'ReactNative', 'Xamarin', 'Azure DevOps', 'CI/CD', 'Git', 'Expo'],
       contents: `
-  My first experience in Bizeta was working for the GShop Suite making small integrations and by creating 
-  an ETL connector (.NET Core) for GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store) 
-  to replace older handhandled Windows CE devices with newer Android ones (Xamarin Android).
-  In 2022 i was moved into the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), 
-  which is part of the Software Business Unit of Custom S.p.a. OneStore is a point of sale solution for the retail fashion and luxury sector.
-  The Backend is developed in its entirety with .NET and recently I started developing more and more on the frontend side in ReactNative and bundled with [Expo](https://expo.dev).
+  My first project at Bizeta was the GShop Suite, where I built small integrations and an ETL connector (.NET Core) between GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store) to replace older handheld Windows CE devices with newer Android ones (Xamarin Android).
+  In 2022 I moved to the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), part of the Software Business Unit of Custom S.p.A. OneStore is a point-of-sale solution for the retail fashion and luxury sector.
+  The backend is built entirely with .NET, and I increasingly took on frontend work in ReactNative bundled with [Expo](https://expo.dev).
 
-  Other technologies used: SQL Server, Azure SQL Server, SQLite, Azure Dev
-  For version control and branch workflow: Git with Azure DevOps, GitKraken (Git GUI), using release branch workflow with pull request policies`
+  Other technologies used: SQL Server, Azure SQL Server, SQLite, Azure DevOps.
+  For version control and branch workflow: Git with Azure DevOps, GitKraken (Git GUI), following a release branch workflow with pull request policies.`
   }
   ],
   educations: [
@@ -62,8 +58,8 @@ module.exports = {
       institution: 'ITIS C. Zuccante',
       location: 'Mestre (Venice), Italy',
       mode: 'In-person',  // or 'Remote', 'Hybrid'
-      period: 'september 2014 - july 2020 · 5 years',
-      skills: ['computer sciences', 'mathematics', 'electronics'],
+      period: 'September 2014 - July 2020 · 5 years',
+      skills: ['computer science', 'mathematics', 'electronics'],
       contents: `Specialized subjects studied: mathematics, computer science, statistics, electronics.`
     }
   ],
