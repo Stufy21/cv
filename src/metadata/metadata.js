@@ -23,6 +23,7 @@ module.exports = {
         value: '<a href="https://www.linkedin.com/in/thomas-stufano-499a68211/">Thomas Stufano</a>'
     },
   },
+  skills: ['.NET Core', 'ReactNative', 'Angular', 'AngularJS', 'Xamarin', 'SQL Server', 'Azure SQL', 'T-SQL', 'SQLite', 'Git', 'Azure DevOps', 'CI/CD', 'Docker', 'Expo'],
   positions: [
     {
       title: 'Software Engineer',
@@ -32,8 +33,10 @@ module.exports = {
       period: 'January 2025 - Present',
       skills: ['.NET Core', 'DevExpress', 'SQLServer', 'T-SQL','Git', 'Docker'],
       contents: `
-  I joined Blizzard S.R.L in January 2025 as a Software Engineer, building a new tool for managing industrial machines with .NET Core and DevExpress on the frontend and SQL Server on the backend.
-  I also maintain and improve existing tools, using Git for version control and Docker for containerization.
+Joined Blizzard S.R.L in January 2025 as a Software Engineer.
+
+- Building a new tool for managing industrial machines, using .NET Core and DevExpress on the frontend and SQL Server on the backend.
+- Maintaining and improving existing tools, using Git for version control and Docker for containerization.
       `
     },
     {
@@ -44,12 +47,10 @@ module.exports = {
       period: 'October 2020 - January 2025 · 4 years 4 months',
       skills: ['.NET Core', 'AzureSQL', 'SQLServer', 'T-SQL', 'SQLite', 'Angular', 'AngularJS', 'ReactNative', 'Xamarin', 'Azure DevOps', 'CI/CD', 'Git', 'Expo'],
       contents: `
-  My first project at Bizeta was the GShop Suite, where I built small integrations and an ETL connector (.NET Core) between GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store) to replace older handheld Windows CE devices with newer Android ones (Xamarin Android).
-  In 2022 I moved to the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), part of the Software Business Unit of Custom S.p.A. OneStore is a point-of-sale solution for the retail fashion and luxury sector.
-  The backend is built entirely with .NET, and I increasingly took on frontend work in ReactNative bundled with [Expo](https://expo.dev).
-
-  Other technologies used: SQL Server, Azure SQL Server, SQLite, Azure DevOps.
-  For version control and branch workflow: Git with Azure DevOps, GitKraken (Git GUI), following a release branch workflow with pull request policies.`
+- GShop Suite (2020-2022): built small integrations and a .NET Core ETL connector between GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store), replacing legacy handheld Windows CE devices with newer Android ones (Xamarin Android).
+- OneStore (2022-2025): joined the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), part of the Software Business Unit of Custom S.p.A. and a point-of-sale solution for the retail fashion and luxury sector; built the backend in .NET and progressively took on frontend work in ReactNative with [Expo](https://expo.dev).
+- Supported OneStore's international footprint for the OTB group across Germany, Italy, USA, France and Japan, including leading the migration and customization of the application for multiple major Italian fashion retail rollouts.
+- Version control and branch workflow: Git with Azure DevOps and GitKraken (Git GUI), following a release branch workflow with pull request policies.`
   }
   ],
   educations: [
