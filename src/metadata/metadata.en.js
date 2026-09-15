@@ -27,7 +27,7 @@ module.exports = {
     github: {
         icon: '<i class="fa-brands fa-github fact-icon"></i>',
         name: 'GitHub',
-        value: '<a href="https://github.com/Twenyone">Twenyone</a>'
+        value: '<a href="https://github.com/Stufy21">Stufy21</a>'
     },
     linkedin: {
         icon: '<i class="fa-brands fa-linkedin fact-icon"></i>',
