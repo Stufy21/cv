@@ -1,6 +1,18 @@
 module.exports = {
+  locale: 'en',
   name: 'Thomas Stufano',
   title: 'Software Engineer',
+  intro: `Software Engineer with a passion for IT since childhood, focused on building .NET and React Native based software. I value teamwork as fundamental to large-scale software development, and I'm committed to continuous learning and a healthy work-life balance. Outside of work: gym, books, movies, TV series, travel, and gaming.`,
+  gdprText: `I hereby consent to the processing of this CV and the personal data contained within, by anyone who receives this document for the sole purpose of considering my application for employment opportunities, in accordance with Article 6.1(a) of GDPR (EU) 2016/679.`,
+  ui: {
+    lastUpdate: 'Last update',
+    downloadPdf: 'Download PDF version',
+    upToDate: 'Up-to-date version of CV is available at',
+    coreSkills: 'Core Skills',
+    experience: 'Professional Experience',
+    education: 'Education',
+    languageSkills: 'Language skills',
+  },
   facts: {
     home: {
         icon: '<i class="fa fa-home fact-icon"></i>',
@@ -19,7 +31,7 @@ module.exports = {
     },
     linkedin: {
         icon: '<i class="fa-brands fa-linkedin fact-icon"></i>',
-        name: 'Linkedin',
+        name: 'LinkedIn',
         value: '<a href="https://www.linkedin.com/in/thomas-stufano-499a68211/">Thomas Stufano</a>'
     },
   },
