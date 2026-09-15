@@ -5,7 +5,7 @@
     "build": "node src/build.js",
     "watch": "chokidar '**/*' -i 'dist/**/*' -c 'npm run build'",
     "prestart": "npm run build",
-    "start": "npm run watch && live-server dist",
+    "start": "concurrently \"npm run watch\" \"live-server dist\"",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/sneas/cv-project#readme",
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
+    "concurrently": "^10.0.5",
     "dayjs": "^1.11.4",
     "fs-extra": "^10.1.0",
     "gh-pages": "^6.0.0",
