@@ -49,7 +49,7 @@ Joined Blizzard S.R.L in January 2025 as a Software Engineer.
       contents: `
 - GShop Suite (2020-2022): built small integrations and a .NET Core ETL connector between GShop Suite and [IdStore](https://www.custom.biz/en_GB/product/software/id-store), replacing legacy handheld Windows CE devices with newer Android ones (Xamarin Android).
 - OneStore (2022-2025): joined the development team for [OneStore](https://www.custom.biz/en_GB/product/software/onestore), part of the Software Business Unit of Custom S.p.A. and a point-of-sale solution for the retail fashion and luxury sector; built the backend in .NET and progressively took on frontend work in ReactNative with [Expo](https://expo.dev).
-- Supported OneStore's international footprint for the OTB group across Germany, Italy, USA, France and Japan, including leading the migration and customization of the application for multiple major Italian fashion retail rollouts.
+- Supported OneStore's international rollout across Germany, Italy, USA, France and Japan, including leading the migration and customization of the application for multiple major Italian fashion retail go-lives.
 - Version control and branch workflow: Git with Azure DevOps and GitKraken (Git GUI), following a release branch workflow with pull request policies.`
   }
   ],
