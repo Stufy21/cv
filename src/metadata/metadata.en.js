@@ -72,8 +72,8 @@ Joined Blizzard S.R.L in January 2025 as a Software Engineer.
       location: 'Mestre (Venice), Italy',
       mode: 'In-person',  // or 'Remote', 'Hybrid'
       period: 'September 2014 - July 2020 · 5 years',
-      skills: ['computer science', 'mathematics', 'electronics'],
-      contents: `Specialized subjects studied: mathematics, computer science, statistics, electronics.`
+      skills: ['computer science'],
+      contents: `Specialized subjects studied: computer science.`
     }
   ],
   languages: [

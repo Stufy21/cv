@@ -72,8 +72,8 @@ Entrato in Blizzard S.R.L a gennaio 2025 come Software Engineer.
       location: 'Mestre (Venezia), Italia',
       mode: 'In sede',  // or 'Remoto', 'Ibrido'
       period: 'Settembre 2014 - Luglio 2020 · 5 anni',
-      skills: ['informatica', 'matematica', 'elettronica'],
-      contents: `Materie di indirizzo studiate: matematica, informatica, statistica, elettronica.`
+      skills: ['informatica'],
+      contents: `Materie di indirizzo studiate: informatica.`
     }
   ],
   languages: [
