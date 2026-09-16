@@ -24,11 +24,11 @@ module.exports = {
         name: 'Email',
         value: '<a href="mailto:thomas.stufano@gmail.com">thomas.stufano@gmail.com</a>'
     },
-    github: {
-        icon: '<i class="fa-brands fa-github fact-icon"></i>',
-        name: 'GitHub',
-        value: '<a href="https://github.com/Stufy21">Stufy21</a>'
-    },
+    // github: {
+    //     icon: '<i class="fa-brands fa-github fact-icon"></i>',
+    //     name: 'GitHub',
+    //     value: '<a href="https://github.com/Stufy21">Stufy21</a>'
+    // },
     linkedin: {
         icon: '<i class="fa-brands fa-linkedin fact-icon"></i>',
         name: 'LinkedIn',
